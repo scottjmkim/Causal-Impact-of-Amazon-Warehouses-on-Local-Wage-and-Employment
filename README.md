@@ -18,7 +18,8 @@ or in a different semester, without the express approval of all instructors is s
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
 
-**Project Description**
+**Project Description** 
+
 This project aims to identify the causal impact of Amazon warehouses on local employment and average 
 income. It was inspired by The Economist article that was discussed in this class which showed that
 total employment and average weekly wages in the warehousing and storage industry in Lexington County, 
